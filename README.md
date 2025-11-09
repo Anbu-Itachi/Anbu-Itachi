@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...Anime, movies,sports
 - 🌱 Starting the GRIND.
 - starting my ML journey.
-- 
 
 
 <!---
