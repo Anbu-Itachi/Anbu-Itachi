@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Anbu-Itachi
 - 👀 I’m interested in ...Anime, movies,sports
-- 🌱 I’m just starting my web dev journey.
-- currently learning html. will be open to ideas and advice.
+- 🌱 Starting the GRIND.
+- starting my ML journey.
+- 
 
 
 <!---
